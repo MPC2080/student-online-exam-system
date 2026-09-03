@@ -52,7 +52,7 @@ The project is built with a Django REST API and a React + TypeScript frontend. I
 - React Icons
 - React Hot Toast
 - date-fns
-- jalali-moment
+- persian calender
 
 ### Backend
 
@@ -461,6 +461,3 @@ Contributions are welcome.
 4. Test the changes locally.
 5. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License.
